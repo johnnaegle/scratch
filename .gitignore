@@ -1,0 +1,6 @@
+i18n
+.bundle
+db/*.sqlite3
+log/*
+tmp/*
+*.orig
